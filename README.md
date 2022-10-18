@@ -1,5 +1,5 @@
 # CAR-PRICE-ANALYSIS-PREDICTION-MODEL-
-Being a data analysis and car price prediction model for Geely automobile; an automobile company wishing to open their branch in Nigeria 
+A DATA ANALYSIS AND MACHINE LEARNING (LINEAR REGRESSSION) PROJECT GEELY AUTOMOBILE 
 **PROBLEM STATEMEN**T
 A Chinese automobile company Geely Auto aspires to enter the Nigerian market by setting up its manufacturing unit and producing cars locally to compete with their Nigerian, US and European counterparts.
 They have contacted y me, a Data Scientist to understand the factors on which the pricing of cars depends. Specifically, they want to understand the factors affecting the pricing of cars in the Nigerian market, since those may be very different from the Chinese market. 
