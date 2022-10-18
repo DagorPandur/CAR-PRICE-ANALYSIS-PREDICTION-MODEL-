@@ -18,7 +18,10 @@ The goal of this work is to model the price of cars with the available independe
 **DATA DESCRIPTION**
 The dataset describes 205 rows of up-to-date information on the different features of different car models and  the price are which they are pad for in Nigeria as provided. The dataset was collected to gain a better understanding of the status of the automobile sector sector and provide an instrument that will enable Geely automobile thrive well in the sector.
 
-**KEY INSIGHTS, OBSERVATIONS AND RECOMMEDANTIONS** (HP= Highest price)
+**KEY INSIGHTS, OBSERVATIONS AND RECOMMEDANTIONS** 
+
+(HP= Highest price)
+
 From the analysis carried out, the variables that are very significant in determining the price of cars include the fuel type (gas HP), car body(sedan HP),engine location(front HP), engine size(100 HP), horsepower(horsepower HP), aspiration(std, HP) and  drive wheel (fwd HP).
 
 NOTABLE OBSERVATIONS FROM THE RESEARCH
