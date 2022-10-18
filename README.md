@@ -12,6 +12,7 @@ They have contacted y me, a Data Scientist to understand the factors on which th
 The company wants to know:
 
 ●	Which variables are significant in predicting the price of a car
+
 ●	How well do those variables describe the price of a car
 Based on various market surveys, i have gathered a large data set of different types of cars across the Nigerian market.
 
